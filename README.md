@@ -25,7 +25,7 @@ If you prefer to install step-by-step, follow these commands.
 
 1.  **Install dependencies and clone the repo:**
     ```termux
-    pkg install git python && git clone https://github.com/jubairbro/telegram.git && cd telegram
+    pkg install git python && git clome https://github.com/jubairbro/telegram.git && cd telegram
     ```
 2.  **Install Python libraries:**
     ```termux
@@ -64,6 +64,6 @@ On the first run, you will be prompted to log in with your phone number, verific
 This tool is intended for educational and personal management purposes only. The developer is not responsible for any misuse. Please use it responsibly.
 
 ## 👤 Contact & Credit
-Developed by **@JubairFF**.
+Developed by **alone**.
 
-<a href="https://t.me/jubairff"><img src="https://img.shields.io/badge/Contact%20on-Telegram-blue.svg?style=flat-square&logo=telegram"></a>
+<a href="https://t.me/alonemod1"><img src="https://img.shields.io/badge/Contact%20on-Telegram-blue.svg?style=flat-square&logo=telegram"></a>
